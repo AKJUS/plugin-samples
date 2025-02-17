@@ -19,9 +19,9 @@
   "devDependencies": {
     "@figma/eslint-plugin-figma-plugins": "github:figma/eslint-plugin-figma-plugins",
     "@figma/plugin-typings": "https://github.com/figma/plugin-typings.git#dynamic-page-plugin-types",
-    "@typescript-eslint/eslint-plugin": "^6.18.1",
-    "@typescript-eslint/parser": "^6.18.1",
-    "eslint": "^8.56.0",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
+    "eslint": "^9.15.0",
     "typescript": "^5.3.3"
   }
 }
