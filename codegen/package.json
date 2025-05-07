@@ -14,10 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "@figma/plugin-typings": "^1.62.0",
-    "concurrently": "^8.0.1",
+    "concurrently": "^9.0.0",
     "esbuild": "^0.17.14",
     "prettier": "^2.8.7",
-    "vite": "^4.5.9",
+    "vite": "^4.5.14",
     "vite-plugin-singlefile": "^0.13.3"
   }
 }
